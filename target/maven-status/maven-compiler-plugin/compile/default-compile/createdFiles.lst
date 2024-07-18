@@ -1,0 +1,7 @@
+lycoris\griefprotect\events\BlockInteract.class
+lycoris\griefprotect\events\LavaBucket.class
+lycoris\griefprotect\events\PortalEvent.class
+lycoris\griefprotect\GriefProtect.class
+lycoris\griefprotect\commands\Exchange.class
+lycoris\griefprotect\commands\PlayingTime.class
+lycoris\griefprotect\events\PlaceBlock.class
